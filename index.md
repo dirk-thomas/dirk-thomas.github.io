@@ -1,15 +1,16 @@
 ---
 layout: page
-title: About
-permalink: /about/
 ---
 
-Some information about you!
+<img src="images/dirk-thomas.png" style="float: right;" />
+Dirk Thomas is a Software Engineer at the  
+non-profit [Open Source Robotics Foundation](http://www.osrfoundation.org).
 
-### More Information
+He is working on the core of the robotic  
+framework [ROS (the Robot Operating System)](http://www.ros.org).
 
-A place to include any other types of information that you'd like to include about yourself.
+Dirk received his PhD degree in Computer Science  
+in the [Simulation, Systems Optimization and Robotics Group](http://www.sim.informatik.tu-darmstadt.de/en/)  
+at [TU Darmstadt](http://www.tu-darmstadt.de), Germany.
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+His hobbies include robotics, open source software, and rock climbing.
