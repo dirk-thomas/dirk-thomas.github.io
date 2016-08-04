@@ -2,7 +2,7 @@
 layout: page
 ---
 
-<img src="images/dirk-thomas.png" style="float: right;" />
+![Dirk Thomas](images/dirk-thomas.png){: style="float:right"}
 Dirk Thomas is a Software Engineer at the  
 non-profit [Open Source Robotics Foundation](http://www.osrfoundation.org).
 
