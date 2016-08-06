@@ -229,6 +229,24 @@ nav {
 // .main
 //
 
+.projects ul {
+  column-count: 2;
+  -moz-column-count: 2;
+}
+
+.projects li {
+  display: inline-block;
+  margin-bottom: 5px;
+}
+
+.projects li p {
+  margin: 10px 0;
+}
+
+.projects .emoji {
+  margin-bottom: -2px;
+}
+
 .posts > .post {
   padding-bottom: 2em;
   border-bottom: 1px solid $lightGray;

@@ -13,4 +13,5 @@ Dirk received his PhD degree in Computer Science
 in the [Simulation, Systems Optimization and Robotics Group](http://www.sim.informatik.tu-darmstadt.de/en/)  
 at [TU Darmstadt](http://www.tu-darmstadt.de), Germany.
 
-His hobbies include robotics, open source software, and rock climbing.
+In his spare time he likes to work on and  
+contribute to [various projects](projects/).
