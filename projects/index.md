@@ -61,7 +61,7 @@ The following list only contains projects with patch contributions.
 
   Lint HTML files using HTMLHint.
 
-* [Atom linter-markdown](https://github.com/AtomLinter/linter-markdown/pulls?q=is%3Aopen%20author%3Adirk-thomas)
+* [Atom linter-markdown](https://github.com/AtomLinter/linter-markdown/issues?q=is%3Aopen%20author%3Adirk-thomas)
 
   Lint markdown files using remark-lint.
 
@@ -69,7 +69,7 @@ The following list only contains projects with patch contributions.
 
   Lint Python files using pep8.
 
-* [Atom linter-puppetlint](https://github.com/AtomLinter/linter-puppet-lint/pulls?q=is%3Aopen%20author%3Adirk-thomas)
+* [Atom linter-puppetlint](https://github.com/AtomLinter/linter-puppet-lint/issues?q=is%3Aopen%20author%3Adirk-thomas)
 
   Lint puppet files using puppet-lint.
 
@@ -89,15 +89,19 @@ The following list only contains projects with patch contributions.
 
   Notifications within the Atom editor.
 
-* [Atom package-deps](https://github.com/steelbrain/package-deps/pulls?q=is%3Aopen%20author%3Adirk-thomas)
+* [Atom package-deps](https://github.com/steelbrain/package-deps/issues?q=is%3Aopen%20author%3Adirk-thomas)
 
   Automatically install other Atom package as dependencies.
 
-* [Atom settings-view](https://github.com/atom/settings-view/pulls?q=is%3Aopen%20author%3Adirk-thomas)
+* [Atom settings-view](https://github.com/atom/settings-view/issues?q=is%3Aopen%20author%3Adirk-thomas)
 
   Edit core configuration settings, install and configure packages, and change themes from within Atom.
 
-* [Atom uniq-background](https://github.com/negipo/uniq-background/pulls?q=is%3Aopen%20author%3Adirk-thomas)
+* [Atom sync-settings](https://github.com/atom-community/sync-settings/issues?q=is%3Aopen%20author%3Adirk-thomas)
+
+  Synchronize settings, keymaps, user styles, init script, snippets and installed packages across Atom instances.
+
+* [Atom uniq-background](https://github.com/negipo/uniq-background/issues?q=is%3Aopen%20author%3Adirk-thomas)
 
   Show file based images in Atom panes.
 
@@ -117,25 +121,29 @@ The following list only contains projects with patch contributions.
 
   Style guides for various languages as well as a linter for C++ code.
 
-* [Jenkins collapsing-console-sections-plugin](https://github.com/jenkinsci/collapsing-console-sections-plugin/pulls?q=is%3Aopen+author%3Adirk-thomas)
+* [Jenkins collapsing-console-sections-plugin](https://github.com/jenkinsci/collapsing-console-sections-plugin/issues?q=is%3Aopen+author%3Adirk-thomas)
 
   Jenkins plugin adding collapsable sections to the console output.
 
-* [Jenkins GitHub pull request builder plugin](https://github.com/janinko/ghprb/pulls?q=is%3Aopen%20author%3Adirk-thomas)
+* [Jenkins GitHub pull request builder plugin](https://github.com/janinko/ghprb/issues?q=is%3Aopen%20author%3Adirk-thomas)
 
   Jenkins plugin building pull requests from GitHub and reporting the results via the GitHub Commit Status API.
 
-* [Jenkins groovy-postbuild-plugin](https://github.com/jenkinsci/groovy-postbuild-plugin/pulls?q=is%3Aopen%20author%3Adirk-thomas)
+* [Jenkins groovy-postbuild-plugin](https://github.com/jenkinsci/groovy-postbuild-plugin/issues?q=is%3Aopen%20author%3Adirk-thomas)
 
   Jenkins plugin executing Groovy scripts in the Jenkins JVM.
 
-* [jenkinsapi](https://github.com/pycontribs/jenkinsapi/pulls?q=is%3Aopen%20author%3Adirk-thomas)
+* [jenkinsapi](https://github.com/pycontribs/jenkinsapi/issues?q=is%3Aopen%20author%3Adirk-thomas)
 
   A Python library to automate most common Jenkins operations.
 
-* [remark-lint-sentence-newline](https://github.com/chcokr/remark-lint-sentence-newline/pulls?q=is%3Aopen%20author%3Adirk-thomas)
+* [remark-lint-sentence-newline](https://github.com/chcokr/remark-lint-sentence-newline/issues?q=is%3Aopen%20author%3Adirk-thomas)
 
   A remark-lint rule that enforces a newline after an end of sentence in Markdown.
+
+* [Salt](https://github.com/saltstack/salt/issues?q=is%3Aopen%20author%3Adirk-thomas)
+
+  Automate the management and configuration of any infrastructure or application at scale.
 
 * [Scour](https://github.com/scour-project/scour/issues?&q=is%3Aopen%20author%3Adirk-thomas)
 
@@ -153,7 +161,7 @@ The following list only contains projects with patch contributions.
 
   Function parameter help for Sublime 3.
 
-* [SublimeLinter-rst](https://github.com/SublimeLinter/SublimeLinter-rst/pulls?q=is%3Aopen%20author%3Adirk-thomas)
+* [SublimeLinter-rst](https://github.com/SublimeLinter/SublimeLinter-rst/issues?q=is%3Aopen%20author%3Adirk-thomas)
 
   Lint reStructuredText files in Sublime 3.
 
