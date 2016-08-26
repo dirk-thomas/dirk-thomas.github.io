@@ -37,79 +37,79 @@ Selected projects which are hopefully useful for others.
 
 The following list only contains projects with patch contributions.
 
-* [Atom](https://github.com/atom/atom/issues?q=is%3Aopen%20author%3Adirk-thomas)
+* [Atom](https://github.com/atom/atom/issues?q=author%3Adirk-thomas)
 
   Atom is a deeply customizable text editor for the 21st century.
 
-* [Atom api-docs](https://github.com/sharvil/api-docs/issues?q=is%3Aopen%20author%3Adirk-thomas)
+* [Atom api-docs](https://github.com/sharvil/api-docs/issues?q=author%3Adirk-thomas)
 
   An Atom package to access language documentation provided by DevDocs.io.
 
-* [Atom build](https://github.com/noseglid/atom-build/issues?q=is%3Aopen%20author%3Adirk-thomas)
+* [Atom build](https://github.com/noseglid/atom-build/issues?q=author%3Adirk-thomas)
 
   Automatically build your project inside your favorite editor, Atom.
 
-* [Atom language-cmake](https://github.com/lucas-clemente/language-cmake/issues?q=is%3Aopen%20author%3Adirk-thomas)
+* [Atom language-cmake](https://github.com/lucas-clemente/language-cmake/issues?q=author%3Adirk-thomas)
 
   Syntax highlighting for CMake files in Atom.
 
-* [Atom linter-csslint](https://github.com/AtomLinter/linter-csslint/issues?q=is%3Aopen%20author%3Adirk-thomas)
+* [Atom linter-csslint](https://github.com/AtomLinter/linter-csslint/issues?q=author%3Adirk-thomas)
 
   Lint CSS files using csslint.
 
-* [Atom linter-htmlhint](https://github.com/AtomLinter/linter-htmlhint/issues?q=is%3Aopen%20author%3Adirk-thomas)
+* [Atom linter-htmlhint](https://github.com/AtomLinter/linter-htmlhint/issues?q=author%3Adirk-thomas)
 
   Lint HTML files using HTMLHint.
 
-* [Atom linter-markdown](https://github.com/AtomLinter/linter-markdown/issues?q=is%3Aopen%20author%3Adirk-thomas)
+* [Atom linter-markdown](https://github.com/AtomLinter/linter-markdown/issues?q=author%3Adirk-thomas)
 
   Lint markdown files using remark-lint.
 
-* [Atom linter-pep8](https://github.com/AtomLinter/linter-pep8/issues?q=is%3Aopen%20author%3Adirk-thomas)
+* [Atom linter-pep8](https://github.com/AtomLinter/linter-pep8/issues?q=author%3Adirk-thomas)
 
   Lint Python files using pep8.
 
-* [Atom linter-puppetlint](https://github.com/AtomLinter/linter-puppet-lint/issues?q=is%3Aopen%20author%3Adirk-thomas)
+* [Atom linter-puppetlint](https://github.com/AtomLinter/linter-puppet-lint/issues?q=author%3Adirk-thomas)
 
   Lint puppet files using puppet-lint.
 
-* [Atom linter-pydocstyle](https://github.com/AtomLinter/linter-pydocstyle/issues?q=is%3Aopen%20author%3Adirk-thomas)
+* [Atom linter-pydocstyle](https://github.com/AtomLinter/linter-pydocstyle/issues?q=author%3Adirk-thomas)
 
   Lint Python docstrings according to the semantics and conventions spec'd in PEP 257.
 
-* [Atom linter-pyflakes](https://github.com/AtomLinter/linter-pyflakes/issues?q=is%3Aopen%20author%3Adirk-thomas)
+* [Atom linter-pyflakes](https://github.com/AtomLinter/linter-pyflakes/issues?q=author%3Adirk-thomas)
 
   Lint Python files through pyflakes.
 
-* [Atom linter-xmllint](https://github.com/AtomLinter/linter-xmllint/issues?q=is%3Aopen%20author%3Adirk-thomas)
+* [Atom linter-xmllint](https://github.com/AtomLinter/linter-xmllint/issues?q=author%3Adirk-thomas)
 
   Lint XML files through xmllint.
 
-* [Atom notifications](https://github.com/atom/notifications/issues?q=is%3Aopen%20author%3Adirk-thomas)
+* [Atom notifications](https://github.com/atom/notifications/issues?q=author%3Adirk-thomas)
 
   Notifications within the Atom editor.
 
-* [Atom package-deps](https://github.com/steelbrain/package-deps/issues?q=is%3Aopen%20author%3Adirk-thomas)
+* [Atom package-deps](https://github.com/steelbrain/package-deps/issues?q=author%3Adirk-thomas)
 
   Automatically install other Atom package as dependencies.
 
-* [Atom settings-view](https://github.com/atom/settings-view/issues?q=is%3Aopen%20author%3Adirk-thomas)
+* [Atom settings-view](https://github.com/atom/settings-view/issues?q=author%3Adirk-thomas)
 
   Edit core configuration settings, install and configure packages, and change themes from within Atom.
 
-* [Atom sync-settings](https://github.com/atom-community/sync-settings/issues?q=is%3Aopen%20author%3Adirk-thomas)
+* [Atom sync-settings](https://github.com/atom-community/sync-settings/issues?q=author%3Adirk-thomas)
 
   Synchronize settings, keymaps, user styles, init script, snippets and installed packages across Atom instances.
 
-* [Atom uniq-background](https://github.com/negipo/uniq-background/issues?q=is%3Aopen%20author%3Adirk-thomas)
+* [Atom uniq-background](https://github.com/negipo/uniq-background/issues?q=author%3Adirk-thomas)
 
   Show file based images in Atom panes.
 
-* [cmake-lint](https://github.com/richq/cmake-lint/issues?q=is%3Aopen%20author%3Adirk-thomas)
+* [cmake-lint](https://github.com/richq/cmake-lint/issues?q=author%3Adirk-thomas)
 
   Lint CMake files.
 
-* [devdocs](https://github.com/Thibaut/devdocs/issues?q=is%3Aopen%20author%3Adirk-thomas)
+* [devdocs](https://github.com/Thibaut/devdocs/issues?q=author%3Adirk-thomas)
 
   Devdocs.io combines multiple API documentations in a fast, organized, and searchable interface.
 
@@ -117,7 +117,7 @@ The following list only contains projects with patch contributions.
 
   A powerful and robust templating system for Python.
 
-* [Google styleguide](https://github.com/google/styleguide/issues?q=is%3Aopen%20author%3Adirk-thomas)
+* [Google styleguide](https://github.com/google/styleguide/issues?q=author%3Adirk-thomas)
 
   Style guides for various languages as well as a linter for C++ code.
 
@@ -125,23 +125,27 @@ The following list only contains projects with patch contributions.
 
   Jenkins plugin adding collapsable sections to the console output.
 
-* [Jenkins GitHub pull request builder plugin](https://github.com/janinko/ghprb/issues?q=is%3Aopen%20author%3Adirk-thomas)
+* [Jenkins GitHub pull request builder plugin](https://github.com/janinko/ghprb/issues?q=author%3Adirk-thomas)
 
   Jenkins plugin building pull requests from GitHub and reporting the results via the GitHub Commit Status API.
 
-* [Jenkins groovy-postbuild-plugin](https://github.com/jenkinsci/groovy-postbuild-plugin/issues?q=is%3Aopen%20author%3Adirk-thomas)
+* [Jenkins groovy-postbuild-plugin](https://github.com/jenkinsci/groovy-postbuild-plugin/issues?q=author%3Adirk-thomas)
 
   Jenkins plugin executing Groovy scripts in the Jenkins JVM.
 
-* [jenkinsapi](https://github.com/pycontribs/jenkinsapi/issues?q=is%3Aopen%20author%3Adirk-thomas)
+* [Jenkins requeue job plugin](https://github.com/jenkinsci/jobrequeue-plugin/issues?q=author%3Adirk-thomas)
+
+  Jenkins plugin to requeue any jobs that fail due to the slave going down.
+
+* [jenkinsapi](https://github.com/pycontribs/jenkinsapi/issues?q=author%3Adirk-thomas)
 
   A Python library to automate most common Jenkins operations.
 
-* [remark-lint-sentence-newline](https://github.com/chcokr/remark-lint-sentence-newline/issues?q=is%3Aopen%20author%3Adirk-thomas)
+* [remark-lint-sentence-newline](https://github.com/chcokr/remark-lint-sentence-newline/issues?q=author%3Adirk-thomas)
 
   A remark-lint rule that enforces a newline after an end of sentence in Markdown.
 
-* [Salt](https://github.com/saltstack/salt/issues?q=is%3Aopen%20author%3Adirk-thomas)
+* [Salt](https://github.com/saltstack/salt/issues?q=author%3Adirk-thomas)
 
   Automate the management and configuration of any infrastructure or application at scale.
 
@@ -149,22 +153,22 @@ The following list only contains projects with patch contributions.
 
   A Python tool that takes an SVG file and produces a cleaner and more concise file (e.g. after exporting to SVG with a GUI editor, such as Inkscape).
 
-* [Shiboken](https://github.com/PySide/shiboken/issues?q=is%3Aopen%20author%3Adirk-thomas) [2](https://github.com/PySide/shiboken2/issues?q=is%3Aopen%20author%3Adirk-thomas)
+* [Shiboken](https://github.com/PySide/shiboken/issues?q=author%3Adirk-thomas) [2](https://github.com/PySide/shiboken2/issues?q=author%3Adirk-thomas)
 
   Python bindings generator.
 
-* [stdeb](https://github.com/astraw/stdeb/issues?q=is%3Aopen%20author%3Adirk-thomas)
+* [stdeb](https://github.com/astraw/stdeb/issues?q=author%3Adirk-thomas)
 
   Python to Debian source package conversion utility.
 
-* [Sublime-IntelliDocs](https://github.com/shortcutme/Sublime-IntelliDocs/issues?q=is%3Aopen%20author%3Adirk-thomas)
+* [Sublime-IntelliDocs](https://github.com/shortcutme/Sublime-IntelliDocs/issues?q=author%3Adirk-thomas)
 
   Function parameter help for Sublime 3.
 
-* [SublimeLinter-rst](https://github.com/SublimeLinter/SublimeLinter-rst/issues?q=is%3Aopen%20author%3Adirk-thomas)
+* [SublimeLinter-rst](https://github.com/SublimeLinter/SublimeLinter-rst/issues?q=author%3Adirk-thomas)
 
   Lint reStructuredText files in Sublime 3.
 
-* [uncrustify](https://github.com/uncrustify/uncrustify/issues?q=is%3Aopen%20author%3Adirk-thomas)
+* [uncrustify](https://github.com/uncrustify/uncrustify/issues?q=author%3Adirk-thomas)
 
   A highly configurable, easily modifiable source code beautifier.
