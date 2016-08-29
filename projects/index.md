@@ -133,6 +133,10 @@ The following list only contains projects with patch contributions.
 
   Jenkins plugin executing Groovy scripts in the Jenkins JVM.
 
+* [Jenkins JUnit plugin](https://github.com/jenkinsci/junit-plugin/issues?q=author%3Adirk-thomas)
+
+  Jenkins plugin allowing JUnit-format test results to be published.
+
 * [Jenkins requeue job plugin](https://github.com/jenkinsci/jobrequeue-plugin/issues?q=author%3Adirk-thomas)
 
   Jenkins plugin to requeue any jobs that fail due to the slave going down.
