@@ -121,7 +121,11 @@ The following list only contains projects with patch contributions.
 
   Style guides for various languages as well as a linter for C++ code.
 
-* [Jenkins collapsing-console-sections-plugin](https://github.com/jenkinsci/collapsing-console-sections-plugin/issues?q=is%3Aopen+author%3Adirk-thomas)
+* [Jenkins](https://github.com/jenkinsci/jenkins/issues?q=author%3Adirk-thomas)
+
+  Jenkins is the leading open source automation server.
+
+* [Jenkins collapsing-console-sections-plugin](https://github.com/jenkinsci/collapsing-console-sections-plugin/issues?q=author%3Adirk-thomas)
 
   Jenkins plugin adding collapsable sections to the console output.
 
@@ -153,7 +157,7 @@ The following list only contains projects with patch contributions.
 
   Automate the management and configuration of any infrastructure or application at scale.
 
-* [Scour](https://github.com/scour-project/scour/issues?&q=is%3Aopen%20author%3Adirk-thomas)
+* [Scour](https://github.com/scour-project/scour/issues?&q=author%3Adirk-thomas)
 
   A Python tool that takes an SVG file and produces a cleaner and more concise file (e.g. after exporting to SVG with a GUI editor, such as Inkscape).
 
