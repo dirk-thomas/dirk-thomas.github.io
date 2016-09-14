@@ -97,6 +97,10 @@ The following list only contains projects with patch contributions.
 
   Edit core configuration settings, install and configure packages, and change themes from within Atom.
 
+* [Atom svg-preview](https://github.com/josa42/atom-svg-preview/issues?q=author%3Adirk-thomas)
+
+  Show the rendered SVG to the right of the current editor, refreshed live.
+
 * [Atom sync-settings](https://github.com/atom-community/sync-settings/issues?q=author%3Adirk-thomas)
 
   Synchronize settings, keymaps, user styles, init script, snippets and installed packages across Atom instances.
