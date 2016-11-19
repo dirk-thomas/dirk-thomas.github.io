@@ -153,6 +153,10 @@ The following list only contains projects with patch contributions.
 
   A Python library to automate most common Jenkins operations.
 
+* [Coverage.py](https://bitbucket.org/ned/coveragepy/pull-requests/?author=dirk-thomas)
+
+  A tool for measuring code coverage of Python programs.
+
 * [remark-lint-sentence-newline](https://github.com/chcokr/remark-lint-sentence-newline/issues?q=author%3Adirk-thomas)
 
   A remark-lint rule that enforces a newline after an end of sentence in Markdown.
