@@ -105,6 +105,10 @@ The following list only contains projects with patch contributions.
 
   Synchronize settings, keymaps, user styles, init script, snippets and installed packages across Atom instances.
 
+* [Atom text-buffer](https://github.com/atom/text-buffer/issues?q=author%3Adirk-thomas)
+
+  The core of the Atom text buffer, separated into its own module so its tests can be run headless.
+
 * [Atom uniq-background](https://github.com/negipo/uniq-background/issues?q=author%3Adirk-thomas)
 
   Show file based images in Atom panes.
