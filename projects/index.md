@@ -49,6 +49,10 @@ The following list only contains projects with patch contributions.
 
   Automatically build your project inside your favorite editor, Atom.
 
+* [Atom Flight Manual](https://github.com/atom/flight-manual.atom.io/issues?q=author%3Adirk-thomas)
+
+  Everything you need to know in order to use and hack Atom is in this Flight Manual.
+
 * [Atom language-cmake](https://github.com/lucas-clemente/language-cmake/issues?q=author%3Adirk-thomas)
 
   Syntax highlighting for CMake files in Atom.
