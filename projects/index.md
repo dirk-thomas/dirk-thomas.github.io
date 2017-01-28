@@ -117,6 +117,10 @@ The following list only contains projects with patch contributions.
 
   Lint CMake files.
 
+* [Coverage.py](https://bitbucket.org/ned/coveragepy/pull-requests/?author=dirk-thomas)
+
+  A tool for measuring code coverage of Python programs.
+
 * [devdocs](https://github.com/Thibaut/devdocs/issues?q=author%3Adirk-thomas)
 
   Devdocs.io combines multiple API documentations in a fast, organized, and searchable interface.
@@ -156,10 +160,6 @@ The following list only contains projects with patch contributions.
 * [jenkinsapi](https://github.com/pycontribs/jenkinsapi/issues?q=author%3Adirk-thomas)
 
   A Python library to automate most common Jenkins operations.
-
-* [Coverage.py](https://bitbucket.org/ned/coveragepy/pull-requests/?author=dirk-thomas)
-
-  A tool for measuring code coverage of Python programs.
 
 * [remark-lint-sentence-newline](https://github.com/chcokr/remark-lint-sentence-newline/issues?q=author%3Adirk-thomas)
 
