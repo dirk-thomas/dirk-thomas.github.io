@@ -49,6 +49,10 @@ The following list only contains projects with patch contributions.
 
   Automatically build your project inside your favorite editor, Atom.
 
+* [Atom find-and-replace](https://github.com/atom/find-and-replace/issues?q=author%3Adirk-thomas)
+
+  Find and replace in the current buffer or across the entire project in Atom.
+
 * [Atom Flight Manual](https://github.com/atom/flight-manual.atom.io/issues?q=author%3Adirk-thomas)
 
   Everything you need to know in order to use and hack Atom is in this Flight Manual.
@@ -96,6 +100,10 @@ The following list only contains projects with patch contributions.
 * [Atom package-deps](https://github.com/steelbrain/package-deps/issues?q=author%3Adirk-thomas)
 
   Automatically install other Atom package as dependencies.
+
+* [Atom scandal](https://github.com/atom/scandal/issues?q=author%3Adirk-thomas)
+
+  Efficient directory scan + search utilities.
 
 * [Atom settings-view](https://github.com/atom/settings-view/issues?q=author%3Adirk-thomas)
 
