@@ -3,7 +3,54 @@ layout: page
 css_class: projects
 ---
 
-**Projects**
+**Work on the Robot Operating System (ROS)**
+
+The following list only contains items with significant contributions.
+
+* :star: [ament](http://design.ros2.org/articles/ament.html)
+
+  A meta build system for ROS 2 supporting CMake as well as Python packages.
+
+* [catkin](https://github.com/ros/catkin) / [catkin_pkg](https://github.com/ros-infrastructure/catkin_pkg)
+
+  CMake-based build system for ROS.
+
+* :star: [ros_buildfarm](https://github.com/ros-infrastructure/ros_buildfarm)
+
+  The Docker-based build infrastructure of ROS, see [build.ros.org](http://build.ros.org).
+
+* [ROS core packages](http://wiki.ros.org/ros_core)
+
+  ROS concepts like publish / subscribe, services, launch files, etc.
+
+* ROS Enhancement proposals
+
+  [#116](http://www.ros.org/reps/rep-0116.html "Extend pluginlib"),
+  [#121](http://www.ros.org/reps/rep-0121.html "Automatic unloading of libraries for pluginlib"),
+  [#122](http://www.ros.org/reps/rep-0122.html "Filesystem Hierarchy Standard layout changes for ROS"),
+  [#127](http://www.ros.org/reps/rep-0127.html "Specification of package manifest format"),
+  [#128](http://www.ros.org/reps/rep-0128.html "Naming Conventions for Catkin Based Workspaces"),
+  [#132](http://www.ros.org/reps/rep-0132.html "Incorporation of Changelogs into Package Source Tree"),
+  [#133](http://www.ros.org/reps/rep-0133.html "Separation of build environment and source tree tools"),
+  [#134](http://www.ros.org/reps/rep-0134.html "catkin_make_isolated for non-standard catkin packages"),
+  [#137](http://www.ros.org/reps/rep-0137.html "ROS distribution files"),
+  [#140](http://www.ros.org/reps/rep-0140.html "Package Manifest Format Two Specification"),
+  [#141](http://www.ros.org/reps/rep-0141.html "ROS distribution files"),
+  [#143](http://www.ros.org/reps/rep-0143.html "ROS distribution files")
+
+* :star: [rqt](http://wiki.ros.org/rqt)
+
+  A Qt-based framework for GUI development for ROS.
+
+* [ros_release_python](https://github.com/ros-infrastructure/ros_release_python)
+
+  Tool to release Python packages as Debian packages as well as via PyPI.
+
+* :star: [ROS 2 interface definition, code generation, and type support](http://design.ros2.org/articles/interface_definition.html)
+
+  The data structures exchanged by ROS 2 components to interact with each other.
+
+**Side Projects**
 
 Selected projects which are hopefully useful for others.
 
