@@ -152,6 +152,10 @@ The following list only contains projects with patch contributions.
 
   Efficient directory scan + search utilities.
 
+* [Atom screen-recorder](https://github.com/lexcast/screen-recorder/issues?q=author%3Adirk-thomas)
+
+  Record your Atom editor to a gif.
+
 * [Atom settings-view](https://github.com/atom/settings-view/issues?q=author%3Adirk-thomas)
 
   Edit core configuration settings, install and configure packages, and change themes from within Atom.
