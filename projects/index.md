@@ -236,6 +236,10 @@ The following list only contains projects with patch contributions.
 
   A Python tool that takes an SVG file and produces a cleaner and more concise file (e.g. after exporting to SVG with a GUI editor, such as Inkscape).
 
+* [Setuptools / pkg_resources](https://github.com/pypa/setuptools/issues?&q=author%3Adirk-thomas)
+
+  Easily download, build, install, upgrade, and uninstall Python packages.
+
 * [Shiboken](https://github.com/PySide/shiboken/issues?q=author%3Adirk-thomas) [2](https://github.com/PySide/shiboken2/issues?q=author%3Adirk-thomas)
 
   Python bindings generator.
