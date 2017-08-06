@@ -196,6 +196,10 @@ The following list only contains projects with patch contributions.
 
   Style guides for various languages as well as a linter for C++ code.
 
+* [GraphvizAnim](https://github.com/mapio/GraphvizAnim/issues?q=author%3Adirk-thomas)
+
+  A tool to create animated graph visualizations, based on graphviz.
+
 * [Jenkins](https://github.com/jenkinsci/jenkins/issues?q=author%3Adirk-thomas)
 
   Jenkins is the leading open source automation server.
