@@ -84,6 +84,10 @@ Selected projects which are hopefully useful for others.
 
 The following list only contains projects with patch contributions.
 
+* [argcomplete](https://github.com/kislyuk/argcomplete/issues?q=author%3Adirk-thomas)
+
+  Python and tab completion, better together.
+
 * [Atom](https://github.com/atom/atom/issues?q=author%3Adirk-thomas)
 
   Atom is a deeply customizable text editor for the 21st century.
