@@ -192,6 +192,10 @@ The following list only contains projects with patch contributions.
 
   Devdocs.io combines multiple API documentations in a fast, organized, and searchable interface.
 
+* [dh-python](https://github.com/p1otr/dh-python/issues?q=author%3Adirk-thomas)
+
+  Debian helper tools for packaging Python libraries and applications.
+
 * [empy](http://www.alcyone.com/software/empy/)
 
   A powerful and robust templating system for Python.
