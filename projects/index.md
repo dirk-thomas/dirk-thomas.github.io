@@ -236,6 +236,10 @@ The following list only contains projects with patch contributions.
 
   A Python library to automate most common Jenkins operations.
 
+* [pytest](https://github.com/pytest-dev/pytest/issues?&q=author%3Adirk-thomas)
+
+  The pytest framework makes it easy to write small tests, yet scales to support complex functional testing.
+
 * [remark-lint-sentence-newline](https://github.com/chcokr/remark-lint-sentence-newline/issues?q=author%3Adirk-thomas)
 
   A remark-lint rule that enforces a newline after an end of sentence in Markdown.
