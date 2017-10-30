@@ -200,6 +200,14 @@ The following list only contains projects with patch contributions.
 
   A powerful and robust templating system for Python.
 
+* [flake8-docstrings](https://gitlab.com/pycqa/flake8-docstrings/merge_requests?author_username=dirk-thomas&state=all)
+
+  A plugin to flake8 to include checks provided by pep257.
+
+* [flake8-quotes](https://github.com/zheller/flake8-quotes/issues?q=author%3Adirk-thomas)
+
+  Flake8 extension to lint for quotes.
+
 * [Google styleguide](https://github.com/google/styleguide/issues?q=author%3Adirk-thomas)
 
   Style guides for various languages as well as a linter for C++ code.
