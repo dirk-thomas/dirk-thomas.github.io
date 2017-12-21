@@ -37,6 +37,7 @@ The following list only contains items with significant contributions.
   [#140](http://www.ros.org/reps/rep-0140.html "Package Manifest Format Two Specification"),
   [#141](http://www.ros.org/reps/rep-0141.html "ROS distribution files"),
   [#143](http://www.ros.org/reps/rep-0143.html "ROS distribution files")
+  [#149](http://www.ros.org/reps/rep-0149.html "Package Manifest Format Three Specification")
 
 * :star: [rqt](http://wiki.ros.org/rqt)
 
