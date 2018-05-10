@@ -201,6 +201,10 @@ The following list only contains projects with patch contributions.
 
   A powerful and robust templating system for Python.
 
+* [flake8-builtins](https://github.com/gforcada/flake8-builtins/issues?q=author%3Adirk-thomas)
+
+  Check for Python builtins being used as variables or parameters.
+
 * [flake8-docstrings](https://gitlab.com/pycqa/flake8-docstrings/merge_requests?author_username=dirk-thomas&state=all)
 
   A plugin to flake8 to include checks provided by pep257.
