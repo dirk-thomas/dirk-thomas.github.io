@@ -33,11 +33,12 @@ The following list only contains items with significant contributions.
   [#132](http://www.ros.org/reps/rep-0132.html "Incorporation of Changelogs into Package Source Tree"),
   [#133](http://www.ros.org/reps/rep-0133.html "Separation of build environment and source tree tools"),
   [#134](http://www.ros.org/reps/rep-0134.html "catkin_make_isolated for non-standard catkin packages"),
-  [#137](http://www.ros.org/reps/rep-0137.html "ROS distribution files"),
+  [#137](http://www.ros.org/reps/rep-0137.html "ROS distribution files - index v1"),
   [#140](http://www.ros.org/reps/rep-0140.html "Package Manifest Format Two Specification"),
-  [#141](http://www.ros.org/reps/rep-0141.html "ROS distribution files"),
-  [#143](http://www.ros.org/reps/rep-0143.html "ROS distribution files")
-  [#149](http://www.ros.org/reps/rep-0149.html "Package Manifest Format Three Specification")
+  [#141](http://www.ros.org/reps/rep-0141.html "ROS distribution files - index v2"),
+  [#143](http://www.ros.org/reps/rep-0143.html "ROS distribution files - index v3"),
+  [#149](http://www.ros.org/reps/rep-0149.html "Package Manifest Format Three Specification"),
+  [#153](http://www.ros.org/reps/rep-0153.html "ROS distribution files - index v4")
 
 * :star: [rqt](http://wiki.ros.org/rqt)
 
