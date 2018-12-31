@@ -81,6 +81,14 @@ Selected projects which are hopefully useful for others.
 
   A command line tool which makes working with multiple repositories more efficient.
 
+* [vscode-empy](https://github.com/dirk-thomas/vscode-empy)
+
+  EmPy template syntax support for VSCode.
+
+* [vscode-lark](https://github.com/lark-parser/vscode-lark)
+
+  Lark grammar syntax support for VSCode.
+
 **Contributions**
 
 The following list only contains projects with patch contributions.
@@ -264,6 +272,10 @@ The following list only contains projects with patch contributions.
 * [Scour](https://github.com/scour-project/scour/issues?&q=author%3Adirk-thomas)
 
   A Python tool that takes an SVG file and produces a cleaner and more concise file (e.g. after exporting to SVG with a GUI editor, such as Inkscape).
+
+* [scspell](https://github.com/myint/scspell/issues?&q=author%3Adirk-thomas)
+
+  Spell checker for source code.
 
 * [Setuptools / pkg_resources](https://github.com/pypa/setuptools/issues?&q=author%3Adirk-thomas)
 
