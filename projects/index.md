@@ -61,6 +61,10 @@ Selected projects which are hopefully useful for others.
   Syntax highlighting for EmPy templates  
   in Atom.
 
+* :star: [colcon](https://github.com/colcon)
+
+  A highly modular command line tool to improve the workflow of building, testing and using multiple software packages.
+
 * [issues_dashboard](https://github.com/dirk-thomas/issues_dashboard)
 
   A client side web application showing open tickets across all your GitHub organization units and repositories.
