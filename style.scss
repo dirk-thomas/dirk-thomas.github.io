@@ -27,6 +27,12 @@ body {
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: $black;
+    color: $gray;
+  }
+}
 
 .container {
   margin: 0 auto;
@@ -46,6 +52,11 @@ h1, h2, h3, h4, h5, h6 {
 
   @include mobile {
     line-height: 1.4;
+  }
+}
+@media (prefers-color-scheme: dark) {
+  h1, h2, h3, h4, h5, h6 {
+    color: $gray;
   }
 }
 
@@ -110,9 +121,19 @@ em, i {
 strong, b {
   font-weight: bold;
 }
+@media (prefers-color-scheme: dark) {
+  strong, b {
+    color: #777;
+  }
+}
 
 img {
   max-width: 100%;
+}
+@media (prefers-color-scheme: dark) {
+  img {
+    filter: brightness(60%);
+  }
 }
 
 // Fixes images in popup boxes from Google Translate
@@ -167,6 +188,12 @@ img {
     text-align: center;
   }
 }
+@media (prefers-color-scheme: dark) {
+  .masthead {
+    padding: 20px 0;
+    border-color: $darkGray;
+  }
+}
 
 .site-info {
   float: left;
@@ -186,6 +213,11 @@ img {
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
+}
+@media (prefers-color-scheme: dark) {
+  .site-name {
+    color: $gray;
+  }
 }
 
 .site-description {
@@ -223,6 +255,11 @@ nav {
       color: $blue;
     }
   }
+  @media (prefers-color-scheme: dark) {
+    a {
+      color: $gray;
+    }
+  }
 }
 
 //
@@ -245,6 +282,11 @@ nav {
 
 .projects .emoji {
   margin-bottom: -2px;
+}
+@media (prefers-color-scheme: dark) {
+  .projects .emoji {
+    filter: brightness(60%);
+  }
 }
 
 .posts > .post {
@@ -283,6 +325,12 @@ nav {
   border-bottom: 1px solid #ddd;
   background-color: $lightGray;
 }
+@media (prefers-color-scheme: dark) {
+  .wrapper-footer {
+    background-color: $darkerGray;
+    border-color: $darkGray;
+  }
+}
 
 footer {
   padding: 20px 0;
@@ -293,3 +341,9 @@ footer {
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
 @import "svg-icons";
+
+@media (prefers-color-scheme: dark) {
+  .svg-icon {
+    filter: brightness(60%);
+  }
+}
