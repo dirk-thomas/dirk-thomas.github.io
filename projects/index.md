@@ -262,6 +262,10 @@ The following list only contains projects with patch contributions.
 
   A Python library to automate most common Jenkins operations.
 
+* [pydocstyle](https://github.com/PyCQA/pydocstyle/issues?&q=author%3Adirk-thomas)
+
+  A static analysis tool for checking compliance with Python docstring conventions.
+
 * [pytest](https://github.com/pytest-dev/pytest/issues?&q=author%3Adirk-thomas)
 
   The pytest framework makes it easy to write small tests, yet scales to support complex functional testing.
