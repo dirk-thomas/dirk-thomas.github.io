@@ -3,8 +3,8 @@ layout: page
 ---
 
 ![Dirk Thomas](images/dirk-thomas.png){: style="float:right"}
-Dirk Thomas is a Software Engineer at the  
-non-profit [Open Source Robotics Foundation](http://www.osrfoundation.org).
+Dirk Thomas is a Principal Software Engineer at  
+[Open Robotics](http://www.openrobotics.org).
 
 He is working on the core of the robotic  
 framework [ROS (the Robot Operating System)](http://www.ros.org)  
