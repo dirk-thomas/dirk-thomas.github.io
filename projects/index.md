@@ -270,6 +270,10 @@ The following list only contains projects with patch contributions.
 
   The pytest framework makes it easy to write small tests, yet scales to support complex functional testing.
 
+* [python-humanfriendly](https://github.com/xolox/python-humanfriendly/issues?&q=author%3Adirk-thomas)
+
+  Human friendly input/output in Python.
+
 * [remark-lint-sentence-newline](https://github.com/chcokr/remark-lint-sentence-newline/issues?q=author%3Adirk-thomas)
 
   A remark-lint rule that enforces a newline after an end of sentence in Markdown.
