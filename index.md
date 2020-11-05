@@ -10,8 +10,8 @@ framework [ROS (the Robot Operating System)](http://www.ros.org)
 as well as leading the [ROS 2](http://www.ros2.org) project.
 
 Dirk received his PhD degree in Computer Science  
-in the [Simulation, Systems Optimization and Robotics Group](http://www.sim.informatik.tu-darmstadt.de/en/)  
-at [TU Darmstadt](http://www.tu-darmstadt.de), Germany.
+in the [Simulation, Systems Optimization and Robotics Group](https://www.sim.informatik.tu-darmstadt.de/en/index/)  
+at [TU Darmstadt](https://www.tu-darmstadt.de), Germany.
 
 In the spare time beside family and friends he likes  
 to work on and contribute to [various projects](projects/).
