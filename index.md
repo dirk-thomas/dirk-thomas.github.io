@@ -3,12 +3,11 @@ layout: page
 ---
 
 ![Dirk Thomas](images/dirk-thomas.png){: style="float:right"}
-Dirk Thomas is a Principal Software Engineer at  
-[Open Robotics](http://www.openrobotics.org).
 
-He is working on the core of the robotic  
+Dirk Thomas was a Principal Software Engineer at  
+[Open Robotics](http://www.openrobotics.org) working on the core of the robotic  
 framework [ROS (the Robot Operating System)](http://www.ros.org)  
-and is the technical lead for [ROS 2](http://www.ros2.org).
+as well as leading the [ROS 2](http://www.ros2.org) project.
 
 Dirk received his PhD degree in Computer Science  
 in the [Simulation, Systems Optimization and Robotics Group](http://www.sim.informatik.tu-darmstadt.de/en/)  
